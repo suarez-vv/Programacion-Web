@@ -1,2 +1,5 @@
 # Modules from libraries
 node_modules/
+
+# Private credentials of .env
+.env
